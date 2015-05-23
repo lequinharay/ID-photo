@@ -1,0 +1,32 @@
+body {
+	padding: 0;
+	border: none;
+	margin: 0;
+}
+img {
+	top: 0;
+	left: 0;
+	position: relative;
+	width: 2.5cm;
+}
+ul {
+	list-style: none;
+	padding: .8cm;
+	margin: 0;
+}
+li {
+	float: left;
+	width: 2.5cm;
+	height: 3cm;
+	margin: .12cm .1cm;
+	overflow: hidden;
+}
+
+.wrapper {
+	width: 12.4cm;
+	height: 8cm;
+	padding: 0;
+	border: none;
+	margin: 0;
+	background-color: #DDD;
+}
